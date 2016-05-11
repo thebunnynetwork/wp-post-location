@@ -1,5 +1,4 @@
 # wp-post-location
-# WordPress Post Location Plugin by TBN
 ##Welcome to the WP Post Location Plugin by TBN.
 ###Installing the plugin
 This is a basic WordPress plugin which can be installed from within WordPress. It has been submitted to the WordPress plugin repository, but is still pending review.
